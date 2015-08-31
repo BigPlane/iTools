@@ -6,7 +6,7 @@
 //  Copyright (c) 2015年 CH. All rights reserved.
 //
 
-#import "UIView+Extention.h"
+#import "UIView+AdjustFrame.h"
 
 @implementation UIView (AdjustFrame)
 /**
